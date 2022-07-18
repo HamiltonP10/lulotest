@@ -1,0 +1,4258 @@
+[
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1988862"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/41648"
+                    }
+                },
+                "averageRuntime": 16,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 361541,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 41648,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476668.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476668.jpg"
+                },
+                "language": "Korean",
+                "name": "Sim for You",
+                "network": null,
+                "officialSite": "https://www.vlive.tv/video/121637",
+                "premiered": "2019-03-25",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 16,
+                "schedule": {
+                    "days": [
+                        "Monday",
+                        "Wednesday",
+                        "Friday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p><b>Sim for You</b> is a reality series that chronicles each EXO member's life and reveal stories from their everyday life as a series.</p>",
+                "type": "Reality",
+                "updated": 1608499007,
+                "url": "https://www.tvmaze.com/shows/41648/sim-for-you",
+                "webChannel": {
+                    "country": {
+                        "code": "KR",
+                        "name": "Korea, Republic of",
+                        "timezone": "Asia/Seoul"
+                    },
+                    "id": 122,
+                    "name": "V LIVE",
+                    "officialSite": "https://www.vlive.tv/home"
+                },
+                "weight": 35
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1988859"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-11T21:00:00+00:00",
+        "airtime": "06:00",
+        "id": 1988859,
+        "image": null,
+        "name": "Chanyeol's Episode 21",
+        "number": 21,
+        "rating": {
+            "average": null
+        },
+        "runtime": 16,
+        "season": 4,
+        "summary": "<p><b>#LastNightOfSummerVacation #10PointsOutof10 #TheRevealoftheFinalGift</b></p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1988859/sim-for-you-4x21-chanyeols-episode-21"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2330387"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2330386"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/35551"
+                    }
+                },
+                "averageRuntime": 20,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 342329,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Anime",
+                    "Fantasy"
+                ],
+                "id": 35551,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/375304.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/375304.jpg"
+                },
+                "language": "Chinese",
+                "name": "Soul Land",
+                "network": null,
+                "officialSite": "https://v.qq.com/detail/m/m441e3rjq9kwpsc.html",
+                "premiered": "2018-01-13",
+                "rating": {
+                    "average": 7.7
+                },
+                "runtime": 20,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "10:00"
+                },
+                "status": "Running",
+                "summary": "<p>Tang San spent his life in the Tang Outer Sect, dedicated to the creation and mastery of hidden weapons. Once he stole the secret lore of the Inner Sect to reach the pinnacle of his art, his only way out was death. But after throwing himself off the deadly Hell's Peak he was reborn in a different world, the world of Douluo Dalu, a world where every person has a spirit of their own, and those with powerful spirits can practice their spirit power to rise and become Spirit Masters.<br /><br />The spirit that awakens within Tang San is Blue Silver Grass, a useless spirit. Can he overcome the difficulties to reach the high ranks of Spirit Masters and bring the glory of the Tang Sect into this new world?</p>",
+                "type": "Animation",
+                "updated": 1652939782,
+                "url": "https://www.tvmaze.com/shows/35551/soul-land",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 104,
+                    "name": "Tencent QQ",
+                    "officialSite": "https://v.qq.com/"
+                },
+                "weight": 90
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1986140"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T02:00:00+00:00",
+        "airtime": "10:00",
+        "id": 1986140,
+        "image": null,
+        "name": "\u7b2c134\u96c6",
+        "number": 4,
+        "rating": {
+            "average": null
+        },
+        "runtime": 20,
+        "season": 7,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1986140/soul-land-7x04-di134ji"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2350903"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2350902"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/49740"
+                    }
+                },
+                "averageRuntime": 120,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt10784214",
+                    "thetvdb": 375304,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 49740,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/268/670796.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/268/670796.jpg"
+                },
+                "language": "Japanese",
+                "name": "Tokyo Joshi Pro Wrestling",
+                "network": null,
+                "officialSite": "https://www.ddtpro.com/",
+                "premiered": "2013-01-30",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 120,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "12:00"
+                },
+                "status": "Running",
+                "summary": null,
+                "type": "Sports",
+                "updated": 1655840468,
+                "url": "https://www.tvmaze.com/shows/49740/tokyo-joshi-pro-wrestling",
+                "webChannel": {
+                    "country": {
+                        "code": "JP",
+                        "name": "Japan",
+                        "timezone": "Asia/Tokyo"
+                    },
+                    "id": 408,
+                    "name": "DDTUniverse",
+                    "officialSite": null
+                },
+                "weight": 48
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2138925"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T03:00:00+00:00",
+        "airtime": "12:00",
+        "id": 2138925,
+        "image": null,
+        "name": "TJPW Fall Tour '20 ~ WOMM (Wrestling Of My Mind) ~",
+        "number": 43,
+        "rating": {
+            "average": null
+        },
+        "runtime": 120,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2138925/tokyo-joshi-pro-wrestling-2020-12-12-tjpw-fall-tour-20-womm-wrestling-of-my-mind"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1993891"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/51670"
+                    }
+                },
+                "averageRuntime": 25,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt13375866",
+                    "thetvdb": 388672,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Anime",
+                    "Fantasy",
+                    "Romance"
+                ],
+                "id": 51670,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/414/1036502.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/414/1036502.jpg"
+                },
+                "language": "Chinese",
+                "name": "Heaven Official's Blessing",
+                "network": null,
+                "officialSite": "https://www.bilibili.com/tgcf",
+                "premiered": "2020-10-31",
+                "rating": {
+                    "average": 7.3
+                },
+                "runtime": 25,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "11:00"
+                },
+                "status": "Running",
+                "summary": "<p>\"Have you heard? The rubbish Heaven Official is having an affair with the ghost realm's number one bigshot!\"</p><p>Eight hundred years ago, Xie Lian was the Crown Prince of the Xian Le kingdom; one who was beloved by his citizens and the darling of the world. Unsurprisingly, he ascended to the Heavens at a very young age. Now, eight hundred years later, Xie Lian ascends to the Heavens for the third time as the laughing stock of all three realms. On his first task as a god, he meets a mysterious demon who rules the ghosts and terrifies the Heavens... yet unbeknownst to Xie Lian, this demon king has been paying attention to him for a very, very long time.</p>",
+                "type": "Animation",
+                "updated": 1656761777,
+                "url": "https://www.tvmaze.com/shows/51670/heaven-officials-blessing",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 51,
+                    "name": "Bilibili",
+                    "officialSite": null
+                },
+                "weight": 42
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1962057"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T03:00:00+00:00",
+        "airtime": "11:00",
+        "id": 1962057,
+        "image": null,
+        "name": "Foreboding Wind of the Ancient Country",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 25,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1962057/heaven-officials-blessing-1x08-foreboding-wind-of-the-ancient-country"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1972591"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/47912"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-04",
+                "externals": {
+                    "imdb": "tt8871128",
+                    "thetvdb": 331095,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Romance",
+                    "History"
+                ],
+                "id": 47912,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/255/639532.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/255/639532.jpg"
+                },
+                "language": "Chinese",
+                "name": "The Wolf",
+                "network": null,
+                "officialSite": "https://www.iqiyi.com/lib/m_213579814.html",
+                "premiered": "2020-11-19",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>The story happens at the end of the Tang Dynasty, when Zhu Wen usurps the throne and establishes the Later Liang Dynasty, and he's known as Emperor Taizu. Ma Zhai Xing (Li Qin) is the daughter of an official and as a child, she befriends a young boy (Darren Wang) who lives in the mountain. One day when he saves a wolf, he accidentally falls over the cliff and is rescued by Zhu Wen. The authoritative figure adopts him as a godson and gives him the title Bo Wang. Ten years later, he saves the female lead per chance and finds her courage and intelligence resonant, and she likes that while he's in a position of power, he still has humility and kindness. She encourages him to fight for justice and he begins that journey by helping the people, stopping throne fights, etc. Even when they have conflicts, they will face those frankly. As they overcome obstacles and fight for justice, feelings deepen and they are able to reap their own happiness by each other's side.</p>",
+                "type": "Scripted",
+                "updated": 1648217029,
+                "url": "https://www.tvmaze.com/shows/47912/the-wolf",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 36
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1972565"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T04:00:00+00:00",
+        "airtime": "",
+        "id": 1972565,
+        "image": null,
+        "name": "Episode 23",
+        "number": 23,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1972565/the-wolf-1x23-episode-23"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1972591"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/47912"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-04",
+                "externals": {
+                    "imdb": "tt8871128",
+                    "thetvdb": 331095,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Romance",
+                    "History"
+                ],
+                "id": 47912,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/255/639532.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/255/639532.jpg"
+                },
+                "language": "Chinese",
+                "name": "The Wolf",
+                "network": null,
+                "officialSite": "https://www.iqiyi.com/lib/m_213579814.html",
+                "premiered": "2020-11-19",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>The story happens at the end of the Tang Dynasty, when Zhu Wen usurps the throne and establishes the Later Liang Dynasty, and he's known as Emperor Taizu. Ma Zhai Xing (Li Qin) is the daughter of an official and as a child, she befriends a young boy (Darren Wang) who lives in the mountain. One day when he saves a wolf, he accidentally falls over the cliff and is rescued by Zhu Wen. The authoritative figure adopts him as a godson and gives him the title Bo Wang. Ten years later, he saves the female lead per chance and finds her courage and intelligence resonant, and she likes that while he's in a position of power, he still has humility and kindness. She encourages him to fight for justice and he begins that journey by helping the people, stopping throne fights, etc. Even when they have conflicts, they will face those frankly. As they overcome obstacles and fight for justice, feelings deepen and they are able to reap their own happiness by each other's side.</p>",
+                "type": "Scripted",
+                "updated": 1648217029,
+                "url": "https://www.tvmaze.com/shows/47912/the-wolf",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 36
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1972566"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T04:00:00+00:00",
+        "airtime": "",
+        "id": 1972566,
+        "image": null,
+        "name": "Episode 24",
+        "number": 24,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1972566/the-wolf-1x24-episode-24"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1998584"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52782"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2020-12-18",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Comedy",
+                    "Romance"
+                ],
+                "id": 52782,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/291/729462.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/291/729462.jpg"
+                },
+                "language": "Chinese",
+                "name": "Mr. Right is Here!",
+                "network": null,
+                "officialSite": null,
+                "premiered": "2020-12-10",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Thursday",
+                        "Friday",
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>\u200eThe fashion company faced a crisis. Sun Chi, the young owner of the company, at a critical moment took over the management and became the new CEO. He promised his father that in three months he would be able to promote the project \"promoting fashion\" that will help to get out of the crisis. \u200e\u00a0</p><p>\u200eGio Intao, who wanted to be the queen of the fashion industry, by coincidence got into the company and became subordinate to the \"devil\", a young gene. Director Sun Chi.\u200e\u00a0 \u00a0</p><p>\u200eSun Chi and Xiao Intao led a fashion company to resolve the crisis and open new markets, allowing Chinese fashion brands to enter the global market step by step. At the same time, they begin to feel each other.\u200e</p>",
+                "type": "Scripted",
+                "updated": 1609671640,
+                "url": "https://www.tvmaze.com/shows/52782/mr-right-is-here",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 13
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1998578"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T04:00:00+00:00",
+        "airtime": "",
+        "id": 1998578,
+        "image": null,
+        "name": "Episode 7",
+        "number": 7,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1998578/mr-right-is-here-1x07-episode-7"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1998584"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52782"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2020-12-18",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Comedy",
+                    "Romance"
+                ],
+                "id": 52782,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/291/729462.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/291/729462.jpg"
+                },
+                "language": "Chinese",
+                "name": "Mr. Right is Here!",
+                "network": null,
+                "officialSite": null,
+                "premiered": "2020-12-10",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Thursday",
+                        "Friday",
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>\u200eThe fashion company faced a crisis. Sun Chi, the young owner of the company, at a critical moment took over the management and became the new CEO. He promised his father that in three months he would be able to promote the project \"promoting fashion\" that will help to get out of the crisis. \u200e\u00a0</p><p>\u200eGio Intao, who wanted to be the queen of the fashion industry, by coincidence got into the company and became subordinate to the \"devil\", a young gene. Director Sun Chi.\u200e\u00a0 \u00a0</p><p>\u200eSun Chi and Xiao Intao led a fashion company to resolve the crisis and open new markets, allowing Chinese fashion brands to enter the global market step by step. At the same time, they begin to feel each other.\u200e</p>",
+                "type": "Scripted",
+                "updated": 1609671640,
+                "url": "https://www.tvmaze.com/shows/52782/mr-right-is-here",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 13
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1998579"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T04:00:00+00:00",
+        "airtime": "",
+        "id": 1998579,
+        "image": null,
+        "name": "Episode 8",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1998579/mr-right-is-here-1x08-episode-8"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2359045"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2359044"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/55919"
+                    }
+                },
+                "averageRuntime": 11,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt10960302",
+                    "thetvdb": 371744,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Comedy",
+                    "Children"
+                ],
+                "id": 55919,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/329/823511.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/329/823511.jpg"
+                },
+                "language": "Norwegian",
+                "name": "Klassen",
+                "network": null,
+                "officialSite": "https://tv.nrk.no/serie/klassen",
+                "premiered": "2019-09-06",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Wednesday",
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Livet i klassen er som en berg- og dalbane av kj\u00e6rlighet, vennskap og samhold.</p>",
+                "type": "Scripted",
+                "updated": 1657985996,
+                "url": "https://www.tvmaze.com/shows/55919/klassen",
+                "webChannel": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 238,
+                    "name": "NRK TV",
+                    "officialSite": null
+                },
+                "weight": 69
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2113320"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T04:00:00+00:00",
+        "airtime": "05:00",
+        "id": 2113320,
+        "image": null,
+        "name": "Herman Dahl tar over",
+        "number": 18,
+        "rating": {
+            "average": null
+        },
+        "runtime": 12,
+        "season": 3,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2113320/klassen-3x18-herman-dahl-tar-over"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1977332"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/50752"
+                    }
+                },
+                "averageRuntime": 20,
+                "dvdCountry": null,
+                "ended": "2020-12-24",
+                "externals": {
+                    "imdb": "tt11492320",
+                    "thetvdb": 392649,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Children",
+                    "Family"
+                ],
+                "id": 50752,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/288/721951.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721951.jpg"
+                },
+                "language": "Norwegian",
+                "name": "Stjernest\u00f8v",
+                "network": null,
+                "officialSite": "https://tv.nrk.no/serie/stjernestoev",
+                "premiered": "2020-12-01",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 20,
+                "schedule": {
+                    "days": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday",
+                        "Saturday",
+                        "Sunday"
+                    ],
+                    "time": "06:00"
+                },
+                "status": "Ended",
+                "summary": "<p>The parents get divorced and Jo has to move to a new place. One day, Nordstjerna goes out, and Jo discovers that a girl with magical powers lives in the attic.</p>",
+                "type": "Scripted",
+                "updated": 1611436842,
+                "url": "https://www.tvmaze.com/shows/50752/stjernestov",
+                "webChannel": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 238,
+                    "name": "NRK TV",
+                    "officialSite": null
+                },
+                "weight": 17
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1977320"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T05:00:00+00:00",
+        "airtime": "06:00",
+        "id": 1977320,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/290/726346.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/290/726346.jpg"
+        },
+        "name": "Episode 12",
+        "number": 12,
+        "rating": {
+            "average": null
+        },
+        "runtime": 20,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1977320/stjernestov-1x12-episode-12"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2212177"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/58844"
+                    }
+                },
+                "averageRuntime": null,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Comedy",
+                    "Horror"
+                ],
+                "id": 58844,
+                "image": null,
+                "language": "Russian",
+                "name": "\u0417\u043e\u043c\u0431\u0435\u0442\u044b",
+                "network": null,
+                "officialSite": "https://salemsocial.kz/projects/zombeti",
+                "premiered": "2020-11-07",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Wednesday"
+                    ],
+                    "time": ""
+                },
+                "status": "To Be Determined",
+                "summary": null,
+                "type": "Scripted",
+                "updated": 1636362084,
+                "url": "https://www.tvmaze.com/shows/58844/zombety",
+                "webChannel": {
+                    "country": {
+                        "code": "KZ",
+                        "name": "Kazakhstan",
+                        "timezone": "Asia/Qyzylorda"
+                    },
+                    "id": 452,
+                    "name": "Aitube.kz",
+                    "officialSite": null
+                },
+                "weight": 1
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2212166"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T07:00:00+00:00",
+        "airtime": "",
+        "id": 2212166,
+        "image": null,
+        "name": "7 \u0441\u0435\u0440\u0438\u044f",
+        "number": 7,
+        "rating": {
+            "average": null
+        },
+        "runtime": null,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2212166/zombety-1x07-7-seria"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2041867"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/53888"
+                    }
+                },
+                "averageRuntime": 17,
+                "dvdCountry": null,
+                "ended": "2021-01-02",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Comedy",
+                    "Music",
+                    "Travel"
+                ],
+                "id": 53888,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/378/947056.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/378/947056.jpg"
+                },
+                "language": "Korean",
+                "name": "Fandom Tour",
+                "network": null,
+                "officialSite": "https://tv.kakao.com/channel/3658620/cliplink/415324903?metaObjectType=Channel",
+                "premiered": "2020-09-19",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 15,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "17:00"
+                },
+                "status": "Ended",
+                "summary": "<p>K-pop artists have come out for fans who want to come to Korea but can't! Idol pilgrimage maker to make travel course by traveling 'instead' to hideouts containing precious memories of my favorite artist!\u00a0<br />\u00a0</p>",
+                "type": "Variety",
+                "updated": 1638067689,
+                "url": "https://www.tvmaze.com/shows/53888/fandom-tour",
+                "webChannel": {
+                    "country": {
+                        "code": "KR",
+                        "name": "Korea, Republic of",
+                        "timezone": "Asia/Seoul"
+                    },
+                    "id": 294,
+                    "name": "Kakao TV",
+                    "officialSite": "https://tv.kakao.com/top"
+                },
+                "weight": 19
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2041864"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T08:00:00+00:00",
+        "airtime": "17:00",
+        "id": 2041864,
+        "image": null,
+        "name": "\uc624\ub9c8\uc774\uac78\uc758 \uccab \ubc88\uc9f8 \ucd94\uc5b5\uc5ec\ud589",
+        "number": 13,
+        "rating": {
+            "average": null
+        },
+        "runtime": 16,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2041864/fandom-tour-1x13-omaigeol-ui-cheos-beonjjae-chueog-yeohaeng"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2137606"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/56605"
+                    }
+                },
+                "averageRuntime": null,
+                "dvdCountry": null,
+                "ended": "2020-12-26",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama"
+                ],
+                "id": 56605,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/344/861394.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/861394.jpg"
+                },
+                "language": "Korean",
+                "name": "It's Okay to Be Sensitive 2020",
+                "network": null,
+                "officialSite": null,
+                "premiered": "2020-12-03",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Thursday",
+                        "Saturday"
+                    ],
+                    "time": "18:00"
+                },
+                "status": "Ended",
+                "summary": "<p>In these times when it is difficult to completely guard \"oneself\" due to social and gender issues, the friendship story of four people delivering warm comfort to all the wounded people in the world.</p>",
+                "type": "Scripted",
+                "updated": 1627511198,
+                "url": "https://www.tvmaze.com/shows/56605/its-okay-to-be-sensitive-2020",
+                "webChannel": {
+                    "country": {
+                        "code": "KR",
+                        "name": "Korea, Republic of",
+                        "timezone": "Asia/Seoul"
+                    },
+                    "id": 30,
+                    "name": "Naver TVCast",
+                    "officialSite": "https://tv.naver.com/"
+                },
+                "weight": 20
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2137602"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T09:00:00+00:00",
+        "airtime": "18:00",
+        "id": 2137602,
+        "image": null,
+        "name": "Episode 4",
+        "number": 4,
+        "rating": {
+            "average": null
+        },
+        "runtime": null,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2137602/its-okay-to-be-sensitive-2020-1x04-episode-4"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2249023"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/11502"
+                    }
+                },
+                "averageRuntime": 54,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt7057262",
+                    "thetvdb": 257720,
+                    "tvrage": 34149
+                },
+                "genres": [
+                    "Music"
+                ],
+                "id": 11502,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/387/968749.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/387/968749.jpg"
+                },
+                "language": "Norwegian",
+                "name": "Hver gang vi m\u00f8tes",
+                "network": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 339,
+                    "name": "TV 2",
+                    "officialSite": null
+                },
+                "officialSite": "https://play.tv2.no/programmer/underholdning/hver-gang-vi-moetes",
+                "premiered": "2012-01-28",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>7 artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
+                "type": "Reality",
+                "updated": 1655988055,
+                "url": "https://www.tvmaze.com/shows/11502/hver-gang-vi-motes",
+                "webChannel": null,
+                "weight": 40
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1971939"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T11:00:00+00:00",
+        "airtime": "",
+        "id": 1971939,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/721377.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721377.jpg"
+        },
+        "name": "Program 7 - del 1",
+        "number": 13,
+        "rating": {
+            "average": null
+        },
+        "runtime": 44,
+        "season": 10,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1971939/hver-gang-vi-motes-10x13-program-7-del-1"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2249023"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/11502"
+                    }
+                },
+                "averageRuntime": 54,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt7057262",
+                    "thetvdb": 257720,
+                    "tvrage": 34149
+                },
+                "genres": [
+                    "Music"
+                ],
+                "id": 11502,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/387/968749.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/387/968749.jpg"
+                },
+                "language": "Norwegian",
+                "name": "Hver gang vi m\u00f8tes",
+                "network": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 339,
+                    "name": "TV 2",
+                    "officialSite": null
+                },
+                "officialSite": "https://play.tv2.no/programmer/underholdning/hver-gang-vi-moetes",
+                "premiered": "2012-01-28",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>7 artists spend eight days together at a farm outside the city of Moss, where each artist attempts to do their own version of another artists well-known songs, with each person getting an episode featuring all of their songs being performed by the other musicians.</p>",
+                "type": "Reality",
+                "updated": 1655988055,
+                "url": "https://www.tvmaze.com/shows/11502/hver-gang-vi-motes",
+                "webChannel": null,
+                "weight": 40
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1971940"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T11:00:00+00:00",
+        "airtime": "",
+        "id": 1971940,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/721378.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721378.jpg"
+        },
+        "name": "Program 7 - del 2",
+        "number": 14,
+        "rating": {
+            "average": null
+        },
+        "runtime": 22,
+        "season": 10,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1971940/hver-gang-vi-motes-10x14-program-7-del-2"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2182118"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/57956"
+                    }
+                },
+                "averageRuntime": 21,
+                "dvdCountry": null,
+                "ended": "2020-12-19",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 57956,
+                "image": null,
+                "language": "Norwegian",
+                "name": "Hjem til jul?",
+                "network": null,
+                "officialSite": "https://play.tv2.no/nyheter/hjem-til-jul",
+                "premiered": "2020-12-05",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>It will be a different holiday for many this year. In the program <b>Hjem til jul? </b>we talk, among other things, with Norwegian students who are corona-fixed abroad, those who are out on military missions for Norway, and the sailors who steer Norwegian ships on the world's oceans on Christmas Eve.</p>",
+                "type": "Documentary",
+                "updated": 1632861504,
+                "url": "https://www.tvmaze.com/shows/57956/hjem-til-jul",
+                "webChannel": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 327,
+                    "name": "TV 2 Play",
+                    "officialSite": null
+                },
+                "weight": 7
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2182117"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T11:00:00+00:00",
+        "airtime": "",
+        "id": 2182117,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/361/903573.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/361/903573.jpg"
+        },
+        "name": "Episode 2",
+        "number": 2,
+        "rating": {
+            "average": null
+        },
+        "runtime": 21,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2182117/hjem-til-jul-1x02-episode-2"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2275469"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/30606"
+                    }
+                },
+                "averageRuntime": 9,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 265193,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 30606,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/121/302950.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/121/302950.jpg"
+                },
+                "language": "English",
+                "name": "SciShow",
+                "network": null,
+                "officialSite": "https://www.youtube.com/user/scishow/",
+                "premiered": "2012-01-02",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p><b>SciShow</b> explores the unexpected. Seven days a week, Hank Green, Michael Aranda, and Olivia Gordon delve into the scientific subjects that defy our expectations and make us even more curious!</p><p>Schedule:</p><p>Sundays \u2014 Learn about the amazing topics we can't quite make a stand-alone show about in SciShow List Show!</p><p>Mondays \u2014 Tune in for a short Dose about our weird world.</p><p>Tuesdays \u2014 Find answers to our most asked Quick Questions.</p><p>Wednesdays \u2014 Hank or Michael dives deep into a long-form Infusion episode, or an unscripted talk show or quiz show with a guest!</p><p>Thursday \u2014 Another new dose about the wonders of the world.</p><p>Fridays \u2014 Learn the latest in science News.</p><p>Saturdays \u2014 Get your quick questions answered!</p>",
+                "type": "Documentary",
+                "updated": 1644762005,
+                "url": "https://www.tvmaze.com/shows/30606/scishow",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 28
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2176129"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2176129,
+        "image": null,
+        "name": "Why Do Things Look Blurry Underwater?",
+        "number": 339,
+        "rating": {
+            "average": null
+        },
+        "runtime": null,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2176129/scishow-2020-12-12-why-do-things-look-blurry-underwater"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2359438"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/40232"
+                    }
+                },
+                "averageRuntime": 30,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt6344082",
+                    "thetvdb": 322721,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 40232,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/178/447309.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/178/447309.jpg"
+                },
+                "language": "Dutch",
+                "name": "Jachtseizoen",
+                "network": null,
+                "officialSite": "https://www.youtube.com/watch?v=KsjjpB-EKdE&list=PLV8Q_exbQpnah3PkCNG8ao4sbWxqFdjSY",
+                "premiered": "2016-12-17",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 30,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>In every episode of <b>Jachtseizoen</b>, a famous Dutch person is taking up the task to flee from the men of StukTV. It is up to StukTV to hunt him down within four hours and if they fail to do so, the fugitive is gone.</p>",
+                "type": "Game Show",
+                "updated": 1657611207,
+                "url": "https://www.tvmaze.com/shows/40232/jachtseizoen",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 63
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1988714"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1988714,
+        "image": null,
+        "name": "Milan Knol op de vlucht",
+        "number": 7,
+        "rating": {
+            "average": null
+        },
+        "runtime": 30,
+        "season": 5,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1988714/jachtseizoen-5x07-milan-knol-op-de-vlucht"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2358528"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/40868"
+                    }
+                },
+                "averageRuntime": 12,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt8929826",
+                    "thetvdb": 355452,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 40868,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/456799.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/456799.jpg"
+                },
+                "language": "English",
+                "name": "Gods' School: The Olympian Gods",
+                "network": null,
+                "officialSite": "https://www.youtube.com/channel/UC4E060sRvClagErOdYZZjVA",
+                "premiered": "2019-01-31",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 15,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Mount Olympus is the divine sanctuary created by the Titans for the young gods and goddesses, Among the young immortals, one young goddess, Eris, is a black sheep. She has an horrible reputation, she doesn't fit the high standards of Mount Olympus and she is is being avoid like the plague. But her meeting with a mortal is going to change her divine destiny.</p>",
+                "type": "Animation",
+                "updated": 1657297065,
+                "url": "https://www.tvmaze.com/shows/40868/gods-school-the-olympian-gods",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 16
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1986253"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1986253,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/394/986669.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/394/986669.jpg"
+        },
+        "name": "Clash of the Aloads",
+        "number": 3,
+        "rating": {
+            "average": null
+        },
+        "runtime": 15,
+        "season": 1,
+        "summary": "<p>Mount Olympus is under attack and the young deities must face two giants: The Aloads brothers. Athena, Zeus, Poseidon and Hades are fighting against them, while the other Olympians seek help from the Titans. Who set the giants free from Tartarus in the Underworld ? Will the gods's divine power be enough to defeat their enemies ?</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1986253/gods-school-the-olympian-gods-1x03-clash-of-the-aloads"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1976949"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/47108"
+                    }
+                },
+                "averageRuntime": 11,
+                "dvdCountry": null,
+                "ended": "2021-01-09",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 379187,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Food",
+                    "Romance"
+                ],
+                "id": 47108,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/250/626060.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/250/626060.jpg"
+                },
+                "language": "Thai",
+                "name": "Ingredients",
+                "network": null,
+                "officialSite": "https://www.youtube.com/playlist?list=PLm4DCG8d7KtbmAxfQmDxY1CTK8h4KNRI-",
+                "premiered": "2020-04-04",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 10,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>Tops is a young man who has been fascinated by cooking since childhood. He finds happiness in cooking delicious and tasty food with great care. Marwin is young, romantic, playful, and charming. He loves and is dedicated to music and dreams of becoming a world-class musician. His interest in music is so strong that he didn't take care of himself until he came to live with Tops. When the difference between the two becomes the perfect combination, chaos ensues, and the two find themselves deciding between their dreams and each other. This mini series tells the story of two friends who return to each other's lives during their last year of school and help make one another's dreams come true.</p>",
+                "type": "Scripted",
+                "updated": 1628429041,
+                "url": "https://www.tvmaze.com/shows/47108/ingredients",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 36
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1976947"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1976947,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/720583.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/720583.jpg"
+        },
+        "name": "Out of Control",
+        "number": 19,
+        "rating": {
+            "average": 10
+        },
+        "runtime": 19,
+        "season": 1,
+        "summary": "<p>Mawin comes home drunk after learning the news about his audition results. \u00a0Tops treats Marwin's injury to his forehead and prepares him a meal to help him sober up. \u00a0</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1976947/ingredients-1x19-out-of-control"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2362899"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/49147"
+                    }
+                },
+                "averageRuntime": 15,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "War",
+                    "History"
+                ],
+                "id": 49147,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/275/688802.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/275/688802.jpg"
+                },
+                "language": "English",
+                "name": "World War Two: Week by Week",
+                "network": null,
+                "officialSite": "https://www.youtube.com/c/WorldWarTwo/playlists?view=50&sort=dd&shelf_id=5",
+                "premiered": "2018-09-01",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 20,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>World War Two dives into the history of one of the most devastating wars in human history. Indy Neidell, Spartacus Olsson and their team of dedicated historians cover the events of World War Two week by week in realtime. Additionally, we take an in-depth look at the war against humanity, key figures in all camps, military hardware, impact on culture, military strategies and life at the home fronts or under occupation.</p>",
+                "type": "Documentary",
+                "updated": 1658060046,
+                "url": "https://www.tvmaze.com/shows/49147/world-war-two-week-by-week",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 72
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1984749"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1984749,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/290/725744.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/290/725744.jpg"
+        },
+        "name": "December 12, 1941",
+        "number": 15,
+        "rating": {
+            "average": null
+        },
+        "runtime": 20,
+        "season": 3,
+        "summary": "<p>The Japanese launch attacks all over Southeast Asia and the Pacific, and launch a preemptive surprise attack on the American Pacific Fleet at Pearl Harbor. The war is suddenly much larger. In the USSR, the Germans find themselves now heavily on the defensive after the failure to take Moscow, while in North Africa, Erwin Rommel decides he must withdraw out of Cyrenaica to await reinforcements.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1984749/world-war-two-week-by-week-3x15-december-12-1941"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1979217"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/49823"
+                    }
+                },
+                "averageRuntime": 22,
+                "dvdCountry": null,
+                "ended": "2020-12-12",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 385709,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Romance"
+                ],
+                "id": 49823,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/277/694279.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/277/694279.jpg"
+                },
+                "language": "Thai",
+                "name": "Calculating Love",
+                "network": null,
+                "officialSite": "https://tv.line.me/calculatinglove",
+                "premiered": "2020-07-18",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 15,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>\"Secretly loving your close friend and changing him to be the love one\" is an uncomfortable feeling for Sine and Tan. They don't know each person's thoughts. Will their relationship be the same after love confession? Hoping this love will be calculated with the correct answer.</p>",
+                "type": "Scripted",
+                "updated": 1607798027,
+                "url": "https://www.tvmaze.com/shows/49823/calculating-love",
+                "webChannel": {
+                    "country": null,
+                    "id": 88,
+                    "name": "LINE TV",
+                    "officialSite": "https://www.linetv.tw/"
+                },
+                "weight": 55
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1979217"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1979217,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/721364.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721364.jpg"
+        },
+        "name": "Episode 6",
+        "number": 6,
+        "rating": {
+            "average": 7.5
+        },
+        "runtime": 47,
+        "season": 1,
+        "summary": "<p>Tan initiates a bold move to make his feelings clear. \u00a0</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1979217/calculating-love-1x06-episode-6"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2356532"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2356531"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/50868"
+                    }
+                },
+                "averageRuntime": 180,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 388919,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 50868,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/690365.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/690365.jpg"
+                },
+                "language": "English",
+                "name": "ICW No Holds Barred",
+                "network": null,
+                "officialSite": "https://independentwrestling.tv/promotion/icw-no-holds-barred",
+                "premiered": "2020-01-04",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 180,
+                "schedule": {
+                    "days": [
+                        "Sunday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p><b>ICW No Holds Barred</b> (fka Impact Championship Wrestling) is a Professional Wrestling Promotion based out of Queens, New York founded in 2001 to showcase the best competition in American Pro-Wrestling Today.</p>",
+                "type": "Sports",
+                "updated": 1656858681,
+                "url": "https://www.tvmaze.com/shows/50868/icw-no-holds-barred",
+                "webChannel": {
+                    "country": null,
+                    "id": 417,
+                    "name": "Independentwrestling TV",
+                    "officialSite": null
+                },
+                "weight": 36
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2186868"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2186868,
+        "image": null,
+        "name": "Pitfighter X5",
+        "number": 14,
+        "rating": {
+            "average": null
+        },
+        "runtime": 180,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2186868/icw-no-holds-barred-2020-12-12-pitfighter-x5"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1992714"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/51125"
+                    }
+                },
+                "averageRuntime": 51,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt13175760",
+                    "thetvdb": 387152,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Horror",
+                    "Thriller"
+                ],
+                "id": 51125,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/277/693739.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/277/693739.jpg"
+                },
+                "language": "Chinese",
+                "name": "Detention",
+                "network": null,
+                "officialSite": "https://www.netflix.com/title/81329144",
+                "premiered": "2020-12-05",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "To Be Determined",
+                "summary": "<p><b>Detention</b> starts at Greenwood High School in the 1990s. Yunxiang Liu, a transfer student, steps into the forbidden area on the campus by accident, where she encounters the ghost of Ruixin Fang. Fang later unveils the hidden history and trauma over the past 30 years, and how a group of young students and teachers were persecuted as they fought for freedom in the era of censorship. Their stories keep coming back to the school like haunting nightmares, waiting to be told and revealed.\u00a0\u00a0</p>",
+                "type": "Scripted",
+                "updated": 1609887201,
+                "url": "https://www.tvmaze.com/shows/51125/detention",
+                "webChannel": {
+                    "country": null,
+                    "id": 1,
+                    "name": "Netflix",
+                    "officialSite": "https://www.netflix.com/"
+                },
+                "weight": 72
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1985095"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1985095,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/721666.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721666.jpg"
+        },
+        "name": "You are me, I am you",
+        "number": 3,
+        "rating": {
+            "average": null
+        },
+        "runtime": 48,
+        "season": 1,
+        "summary": "<p>With Jui-hsin's guidance, Yun-hsiang finds creative expression through poetry, but her sense of self begins to falter.</p><p><br />\u00a0</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1985095/detention-1x03-you-are-me-i-am-you"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1992714"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/51125"
+                    }
+                },
+                "averageRuntime": 51,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt13175760",
+                    "thetvdb": 387152,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Horror",
+                    "Thriller"
+                ],
+                "id": 51125,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/277/693739.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/277/693739.jpg"
+                },
+                "language": "Chinese",
+                "name": "Detention",
+                "network": null,
+                "officialSite": "https://www.netflix.com/title/81329144",
+                "premiered": "2020-12-05",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "To Be Determined",
+                "summary": "<p><b>Detention</b> starts at Greenwood High School in the 1990s. Yunxiang Liu, a transfer student, steps into the forbidden area on the campus by accident, where she encounters the ghost of Ruixin Fang. Fang later unveils the hidden history and trauma over the past 30 years, and how a group of young students and teachers were persecuted as they fought for freedom in the era of censorship. Their stories keep coming back to the school like haunting nightmares, waiting to be told and revealed.\u00a0\u00a0</p>",
+                "type": "Scripted",
+                "updated": 1609887201,
+                "url": "https://www.tvmaze.com/shows/51125/detention",
+                "webChannel": {
+                    "country": null,
+                    "id": 1,
+                    "name": "Netflix",
+                    "officialSite": "https://www.netflix.com/"
+                },
+                "weight": 72
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1985096"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 1985096,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/721668.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721668.jpg"
+        },
+        "name": "Falsehood",
+        "number": 4,
+        "rating": {
+            "average": null
+        },
+        "runtime": 52,
+        "season": 1,
+        "summary": "<p>As her relationship with Shen Hua stirs up suspicion around the school, Yun-hsiang struggles with writer's block and faces betrayal.</p><p><br />\u00a0</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1985096/detention-1x04-falsehood"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1986174"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52451"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-01",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Action",
+                    "Thriller"
+                ],
+                "id": 52451,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/289/722651.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/289/722651.jpg"
+                },
+                "language": "Chinese",
+                "name": "The Burning River",
+                "network": null,
+                "officialSite": "https://v.youku.com/v_show/id_XNDk1MzY2NzgwNA==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dtitle&s=aaed627feea749d7a99d",
+                "premiered": "2020-12-11",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Friday"
+                    ],
+                    "time": "18:00"
+                },
+                "status": "Ended",
+                "summary": "<p>Two boggling mysteries have occured in a small town in Xinan. A female police captain joins hands with a young detective to conduct an investigation. Although a clear motive can be seen, the two discover a series of unknown secrets.</p><p>One case involves a late-night ride hailed through an online platform that goes terribly wrong. As more and more clues resurface, the cases in the hands of the police hands become complicated and entangled. In a desperate attempt to find the real culprit, events closely link the past, present and future of the small town.</p>",
+                "type": "Scripted",
+                "updated": 1654593151,
+                "url": "https://www.tvmaze.com/shows/52451/the-burning-river",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 33
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1986155"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "20:00",
+        "id": 1986155,
+        "image": null,
+        "name": "Episode 5",
+        "number": 5,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1986155/the-burning-river-1x05-episode-5"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1986174"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52451"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-01",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Action",
+                    "Thriller"
+                ],
+                "id": 52451,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/289/722651.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/289/722651.jpg"
+                },
+                "language": "Chinese",
+                "name": "The Burning River",
+                "network": null,
+                "officialSite": "https://v.youku.com/v_show/id_XNDk1MzY2NzgwNA==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dtitle&s=aaed627feea749d7a99d",
+                "premiered": "2020-12-11",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Friday"
+                    ],
+                    "time": "18:00"
+                },
+                "status": "Ended",
+                "summary": "<p>Two boggling mysteries have occured in a small town in Xinan. A female police captain joins hands with a young detective to conduct an investigation. Although a clear motive can be seen, the two discover a series of unknown secrets.</p><p>One case involves a late-night ride hailed through an online platform that goes terribly wrong. As more and more clues resurface, the cases in the hands of the police hands become complicated and entangled. In a desperate attempt to find the real culprit, events closely link the past, present and future of the small town.</p>",
+                "type": "Scripted",
+                "updated": 1654593151,
+                "url": "https://www.tvmaze.com/shows/52451/the-burning-river",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 33
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1986156"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "20:00",
+        "id": 1986156,
+        "image": null,
+        "name": "Episode 6",
+        "number": 6,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1986156/the-burning-river-1x06-episode-6"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1986174"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52451"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-01",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Action",
+                    "Thriller"
+                ],
+                "id": 52451,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/289/722651.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/289/722651.jpg"
+                },
+                "language": "Chinese",
+                "name": "The Burning River",
+                "network": null,
+                "officialSite": "https://v.youku.com/v_show/id_XNDk1MzY2NzgwNA==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dtitle&s=aaed627feea749d7a99d",
+                "premiered": "2020-12-11",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Friday"
+                    ],
+                    "time": "18:00"
+                },
+                "status": "Ended",
+                "summary": "<p>Two boggling mysteries have occured in a small town in Xinan. A female police captain joins hands with a young detective to conduct an investigation. Although a clear motive can be seen, the two discover a series of unknown secrets.</p><p>One case involves a late-night ride hailed through an online platform that goes terribly wrong. As more and more clues resurface, the cases in the hands of the police hands become complicated and entangled. In a desperate attempt to find the real culprit, events closely link the past, present and future of the small town.</p>",
+                "type": "Scripted",
+                "updated": 1654593151,
+                "url": "https://www.tvmaze.com/shows/52451/the-burning-river",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 33
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1986157"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "20:00",
+        "id": 1986157,
+        "image": null,
+        "name": "Episode 7",
+        "number": 7,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1986157/the-burning-river-1x07-episode-7"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1986174"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52451"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-01",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Action",
+                    "Thriller"
+                ],
+                "id": 52451,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/289/722651.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/289/722651.jpg"
+                },
+                "language": "Chinese",
+                "name": "The Burning River",
+                "network": null,
+                "officialSite": "https://v.youku.com/v_show/id_XNDk1MzY2NzgwNA==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dtitle&s=aaed627feea749d7a99d",
+                "premiered": "2020-12-11",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Friday"
+                    ],
+                    "time": "18:00"
+                },
+                "status": "Ended",
+                "summary": "<p>Two boggling mysteries have occured in a small town in Xinan. A female police captain joins hands with a young detective to conduct an investigation. Although a clear motive can be seen, the two discover a series of unknown secrets.</p><p>One case involves a late-night ride hailed through an online platform that goes terribly wrong. As more and more clues resurface, the cases in the hands of the police hands become complicated and entangled. In a desperate attempt to find the real culprit, events closely link the past, present and future of the small town.</p>",
+                "type": "Scripted",
+                "updated": 1654593151,
+                "url": "https://www.tvmaze.com/shows/52451/the-burning-river",
+                "webChannel": {
+                    "country": {
+                        "code": "CN",
+                        "name": "China",
+                        "timezone": "Asia/Shanghai"
+                    },
+                    "id": 118,
+                    "name": "Youku",
+                    "officialSite": null
+                },
+                "weight": 33
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1986158"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "20:00",
+        "id": 1986158,
+        "image": null,
+        "name": "Episode 8",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1986158/the-burning-river-1x08-episode-8"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2000083"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52806"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-02",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 393229,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Comedy",
+                    "Adventure"
+                ],
+                "id": 52806,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/291/729820.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/291/729820.jpg"
+                },
+                "language": "Chinese",
+                "name": "Ultimate Note",
+                "network": null,
+                "officialSite": "https://www.iqiyi.com/a_nvzsmw0tgx.html",
+                "premiered": "2020-12-10",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Thursday",
+                        "Friday",
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>Curious about his uncle's past, Wu Xie watched a mysterious videotape, only to find himself mixed up in an elaborate conspiracy. In his adventures, he encountered Zhang Qi Ling, Xie Yu Chen, and others.\u00a0</p>",
+                "type": "Scripted",
+                "updated": 1649178084,
+                "url": "https://www.tvmaze.com/shows/52806/ultimate-note",
+                "webChannel": {
+                    "country": null,
+                    "id": 67,
+                    "name": "iQIYI",
+                    "officialSite": "https://www.iq.com/"
+                },
+                "weight": 55
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2000058"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2000058,
+        "image": null,
+        "name": "Episode 11",
+        "number": 11,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2000058/ultimate-note-1x11-episode-11"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2000083"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/52806"
+                    }
+                },
+                "averageRuntime": 45,
+                "dvdCountry": null,
+                "ended": "2021-01-02",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 393229,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Comedy",
+                    "Adventure"
+                ],
+                "id": 52806,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/291/729820.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/291/729820.jpg"
+                },
+                "language": "Chinese",
+                "name": "Ultimate Note",
+                "network": null,
+                "officialSite": "https://www.iqiyi.com/a_nvzsmw0tgx.html",
+                "premiered": "2020-12-10",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Thursday",
+                        "Friday",
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>Curious about his uncle's past, Wu Xie watched a mysterious videotape, only to find himself mixed up in an elaborate conspiracy. In his adventures, he encountered Zhang Qi Ling, Xie Yu Chen, and others.\u00a0</p>",
+                "type": "Scripted",
+                "updated": 1649178084,
+                "url": "https://www.tvmaze.com/shows/52806/ultimate-note",
+                "webChannel": {
+                    "country": null,
+                    "id": 67,
+                    "name": "iQIYI",
+                    "officialSite": "https://www.iq.com/"
+                },
+                "weight": 55
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2000059"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2000059,
+        "image": null,
+        "name": "Episode 12",
+        "number": 12,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2000059/ultimate-note-1x12-episode-12"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2113587"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/53851"
+                    }
+                },
+                "averageRuntime": 60,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt14028410",
+                    "thetvdb": 397581,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Food"
+                ],
+                "id": 53851,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/298/745789.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/298/745789.jpg"
+                },
+                "language": "English",
+                "name": "Tregaye's Way in the Kitchen",
+                "network": null,
+                "officialSite": "https://www.discoveryplus.com/show/tregayes-way-in-the-kitchen",
+                "premiered": "2020-11-14",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 60,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Atlanta-based chef and caterer Tregaye Fraser packs flavor and personality into every recipe, sharing her food with the ones she loves -- family, friends and her two growing boys.</p>",
+                "type": "Reality",
+                "updated": 1623829675,
+                "url": "https://www.tvmaze.com/shows/53851/tregayes-way-in-the-kitchen",
+                "webChannel": {
+                    "country": null,
+                    "id": 173,
+                    "name": "discovery+",
+                    "officialSite": "https://www.discoveryplus.com/"
+                },
+                "weight": 29
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2039936"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2039936,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/329/823868.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/329/823868.jpg"
+        },
+        "name": "Taco Night, Any Night",
+        "number": 5,
+        "rating": {
+            "average": null
+        },
+        "runtime": 60,
+        "season": 1,
+        "summary": "<p>It's not Tuesday, but it's tacos! Tregaye Fraser wants to spend more time with her oldest son, so to get a little quality time with Treshawn, Tregaye makes Fish Tacos, Soy Pineapple Flank Steak Tacos, Roast Corn and a Mango Slaw.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2039936/tregayes-way-in-the-kitchen-1x05-taco-night-any-night"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2311490"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/55842"
+                    }
+                },
+                "averageRuntime": null,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 383964,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 55842,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/407/1018907.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/407/1018907.jpg"
+                },
+                "language": "English",
+                "name": "Paranormal Nightmare",
+                "network": null,
+                "officialSite": "https://www.amazon.com/Paranormal-Nightmare/dp/B07YLZPXT7",
+                "premiered": "2019-10-01",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Are ghosts and demons dwelling among us? The Fourman Brothers, a family of paranormal investigators, investigate hauntings.</p>",
+                "type": "Reality",
+                "updated": 1651637591,
+                "url": "https://www.tvmaze.com/shows/55842/paranormal-nightmare",
+                "webChannel": {
+                    "country": null,
+                    "id": 3,
+                    "name": "Prime Video",
+                    "officialSite": "https://www.primevideo.com"
+                },
+                "weight": 42
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2110246"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2110246,
+        "image": null,
+        "name": "A Haunting in West Virginia",
+        "number": 6,
+        "rating": {
+            "average": null
+        },
+        "runtime": null,
+        "season": 5,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2110246/paranormal-nightmare-5x06-a-haunting-in-west-virginia"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2353507"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/57945"
+                    }
+                },
+                "averageRuntime": 18,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 372640,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Comedy"
+                ],
+                "id": 57945,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/361/903289.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/361/903289.jpg"
+                },
+                "language": "English",
+                "name": "I Like to Watch",
+                "network": null,
+                "officialSite": "https://www.youtube.com/playlist?list=PLvahqwMqN4M2o2ZzY6Y8a626Lf286LdVl",
+                "premiered": "2019-11-21",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p><b>I Like to Watch</b> is a 2019 American web series hosted by drag queens Trixie Mattel and Katya Zamolodchikova. The series was created by Fran Tirado, produced by Netflix, and streams on the network's YouTube channel. Produced in a similar format to Mattel and Zamolodchikova's web series <i>UNHhhh</i> and <i>The Trixie &amp; Katya Show</i>, <i>I Like to Watch</i> follows its hosts as they view and react to various Netflix Original Programming.</p>",
+                "type": "Talk Show",
+                "updated": 1656607755,
+                "url": "https://www.tvmaze.com/shows/57945/i-like-to-watch",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 30
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2181796"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2181796,
+        "image": null,
+        "name": "Selena: The Series",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 14,
+        "season": 3,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2181796/i-like-to-watch-3x08-selena-the-series"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2289418"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/60848"
+                    }
+                },
+                "averageRuntime": null,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt6594882",
+                    "thetvdb": 322673,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 60848,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/996515.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/996515.jpg"
+                },
+                "language": "English",
+                "name": "Blippi",
+                "network": null,
+                "officialSite": null,
+                "premiered": "2014-09-23",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>FUN EDUCATIONAL videos for children! Kids will learn colors, learn shapes, learn numbers, learn letters, the alphabet, abc's and so much more with Blippi's nursery rhymes, educational songs, and educational videos! Blippi ties in things children love like Backhoes, Tractors, Planes, Trains, Animals, Boats, Unicorns, Construction Equipment, Firetrucks, Horses, and the list goes on! Incorporating cartoons and animation with real life footage!</p>",
+                "type": "Scripted",
+                "updated": 1646488908,
+                "url": "https://www.tvmaze.com/shows/60848/blippi",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 27
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2289321"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2289321,
+        "image": null,
+        "name": "Blippi Goes Indoor Skydiving | Fun and Educational Videos For Kids",
+        "number": 16,
+        "rating": {
+            "average": null
+        },
+        "runtime": null,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2289321/blippi-2020-12-12-blippi-goes-indoor-skydiving-fun-and-educational-videos-for-kids"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2318192"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/61755"
+                    }
+                },
+                "averageRuntime": null,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt12457946",
+                    "thetvdb": 369798,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Romance"
+                ],
+                "id": 61755,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/406/1015108.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/406/1015108.jpg"
+                },
+                "language": "Arabic",
+                "name": "Bride of Beirut",
+                "network": null,
+                "officialSite": "https://shahid.mbc.net/en/series/Arous%20Beirut-season-1/season-376514-376515",
+                "premiered": "2019-09-01",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 45,
+                "schedule": {
+                    "days": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Sunday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Living with her aunt, kind-hearted Thourayya leads a simple life, but her world is upended when she crosses paths with the handsome and ambitious Fares.</p>",
+                "type": "Scripted",
+                "updated": 1650908800,
+                "url": "https://www.tvmaze.com/shows/61755/bride-of-beirut",
+                "webChannel": {
+                    "country": null,
+                    "id": 379,
+                    "name": "Shahid",
+                    "officialSite": null
+                },
+                "weight": 7
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2318102"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2318102,
+        "image": null,
+        "name": "Episode 46",
+        "number": 46,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 2,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2318102/bride-of-beirut-2x46-episode-46"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2363357"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/62545"
+                    }
+                },
+                "averageRuntime": 17,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [
+                    "War",
+                    "History"
+                ],
+                "id": 62545,
+                "image": null,
+                "language": "English",
+                "name": "WW2: War Against Humanity",
+                "network": null,
+                "officialSite": null,
+                "premiered": "2019-03-06",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p><b>War Against Humanity</b> is a sub-series of \"World War Two: Week by Week\" focusing on war crimes and atrocities from all sides of the conflict that aren't described in detail in regular week by week episodes.</p>",
+                "type": "Documentary",
+                "updated": 1658110452,
+                "url": "https://www.tvmaze.com/shows/62545/ww2-war-against-humanity",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 2
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2347679"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T12:00:00+00:00",
+        "airtime": "",
+        "id": 2347679,
+        "image": null,
+        "name": "December 1941 Pt. 1",
+        "number": 24,
+        "rating": {
+            "average": null
+        },
+        "runtime": 14,
+        "season": 1,
+        "summary": "<p>December 1941 marks the shift to a new chapter in the War Against Humanity. New fronts open up, exposing millions more to the horrors of war. Other developments continue their path of continuous escalation.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2347679/ww2-war-against-humanity-1x24-december-1941-pt-1"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1953792"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/50983"
+                    }
+                },
+                "averageRuntime": 56,
+                "dvdCountry": null,
+                "ended": "2021-01-09",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 390873,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Horror"
+                ],
+                "id": 50983,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/691974.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/691974.jpg"
+                },
+                "language": "Thai",
+                "name": "After Dark The Series",
+                "network": null,
+                "officialSite": "https://wetv.vip/en/play/fscxgyc44dvhojy-After%20Dark/j0034ios98n-Official%20Trailer%3A%20After%20Dark",
+                "premiered": "2020-10-24",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>4 horror stories: When the night falls, humans are more of a threat.</p>",
+                "type": "Scripted",
+                "updated": 1636398937,
+                "url": "https://www.tvmaze.com/shows/50983/after-dark-the-series",
+                "webChannel": {
+                    "country": null,
+                    "id": 367,
+                    "name": "WeTV",
+                    "officialSite": "https://wetv.vip/"
+                },
+                "weight": 37
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1953788"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T13:00:00+00:00",
+        "airtime": "20:00",
+        "id": 1953788,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/286/716997.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/286/716997.jpg"
+        },
+        "name": "Death Channel - Part 3",
+        "number": 9,
+        "rating": {
+            "average": null
+        },
+        "runtime": 60,
+        "season": 1,
+        "summary": "<p>Off and Boat have decided to go to an abandoned asylum. As the darkest secret of the asylum reveals, they encounter an accident that has never happened to any show before.\u00a0</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1953788/after-dark-the-series-1x09-death-channel-part-3"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2303572"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/61307"
+                    }
+                },
+                "averageRuntime": 23,
+                "dvdCountry": null,
+                "ended": "2021-08-21",
+                "externals": {
+                    "imdb": "tt12605548",
+                    "thetvdb": 387130,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Action",
+                    "Fantasy"
+                ],
+                "id": 61307,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/402/1005033.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/402/1005033.jpg"
+                },
+                "language": "Japanese",
+                "name": "Kamen Rider Saber",
+                "network": {
+                    "country": {
+                        "code": "JP",
+                        "name": "Japan",
+                        "timezone": "Asia/Tokyo"
+                    },
+                    "id": 263,
+                    "name": "TV Asahi",
+                    "officialSite": null
+                },
+                "officialSite": "https://www.tv-asahi.co.jp/saber/",
+                "premiered": "2020-09-05",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 23,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "00:00"
+                },
+                "status": "Ended",
+                "summary": "<p>Long ago, the Book of Ancients was the transcriber of history, recording everything known to man; myths, creatures, stories, science and technology, humanity evolved, civilization ... It was protected by the Sword of Logos, a sect of swordsmen tasked with protecting the book to keep the world in balance. However, thousands of years ago, the Megiddo attacked and tried to steal it. As a result, the Book vanished, and each of its pages scattered across the world. In the present day, young novelist Touma Kamiyama has been having dreams of another dimension, swordsmen and monsters coming out of a storybook, and a \"mysterious girl\" calling for help. Recalling the dream sends chills down his spine, not knowing anything about the dream. One day, a strange phenomenon occurred without notice; a part of the city disappeared, people's loved ones disappear one after another, and sends the entire nation into chaos. The vanished part of the city appeared in an alternate dimension, called Wonder World, an endless dimension as big as pages from a book. The dimension is home to magical creatures that attack without hesitation, sending the people in fear and confusion. As Touma and Mei are caught in this phenomenon, the attack reminds Touma of his dream as he is attacked by a mysterious monster. \"I will definitely bring the city back to the original world!\" As if it was responding to his very will, Touma harnesses the power of the red Dragon as it merges into his body, turning him into the Swordsman of Fire. The battle between the real world and Wonder World has an ending, and its destiny is in his hands.</p>",
+                "type": "Scripted",
+                "updated": 1652367705,
+                "url": "https://www.tvmaze.com/shows/61307/kamen-rider-saber",
+                "webChannel": {
+                    "country": {
+                        "code": "JP",
+                        "name": "Japan",
+                        "timezone": "Asia/Tokyo"
+                    },
+                    "id": 533,
+                    "name": "TELASA",
+                    "officialSite": null
+                },
+                "weight": 2
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2303540"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T15:00:00+00:00",
+        "airtime": "00:00",
+        "id": 2303540,
+        "image": null,
+        "name": "Chapter 14: These Feelings, Dwell in this Blade.",
+        "number": 14,
+        "rating": {
+            "average": null
+        },
+        "runtime": 23,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2303540/kamen-rider-saber-1x14-chapter-14-these-feelings-dwell-in-this-blade"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2311214"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/61536"
+                    }
+                },
+                "averageRuntime": 29,
+                "dvdCountry": null,
+                "ended": "2020-12-19",
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 389417,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Drama",
+                    "Romance",
+                    "Mystery"
+                ],
+                "id": 61536,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/403/1008990.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/403/1008990.jpg"
+                },
+                "language": "Japanese",
+                "name": "Ano ko no Yume wo Mitan Desu",
+                "network": {
+                    "country": {
+                        "code": "JP",
+                        "name": "Japan",
+                        "timezone": "Asia/Tokyo"
+                    },
+                    "id": 76,
+                    "name": "TV Tokyo",
+                    "officialSite": null
+                },
+                "officialSite": "https://www.tv-tokyo.co.jp/anoyume/intro/",
+                "premiered": "2020-10-03",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 30,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "00:15"
+                },
+                "status": "Ended",
+                "summary": "<p>Comedian Yamasato Ryota enters a cafe to prepare a story. Trivial incidents unfold there with the staff, TV people, the manager, and a handsome office worker. Little things bother them, and Yamasato's annoyance reaches its limit. He pulls up his glasses, opens his notebook, and begins to write a story featuring a real-life actress in his notebook. For Yamasato, escaping reality is a \"dream time\" where he can forget the bad things. This is the start of Ryota Yamazato's fantasy story with the latest actresses and idols as the heroines!\u00a0<br />\u00a0</p>",
+                "type": "Scripted",
+                "updated": 1649792655,
+                "url": "https://www.tvmaze.com/shows/61536/ano-ko-no-yume-wo-mitan-desu",
+                "webChannel": {
+                    "country": {
+                        "code": "JP",
+                        "name": "Japan",
+                        "timezone": "Asia/Tokyo"
+                    },
+                    "id": 342,
+                    "name": "Paravi",
+                    "officialSite": null
+                },
+                "weight": 7
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2311213"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T15:15:00+00:00",
+        "airtime": "00:15",
+        "id": 2311213,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/404/1010041.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/404/1010041.jpg"
+        },
+        "name": "\"The Dark Eaters\"",
+        "number": 11,
+        "rating": {
+            "average": null
+        },
+        "runtime": 29,
+        "season": 1,
+        "summary": "<p>The \"Dark Eaters\" has brought peace to the world by taking out the darkness that feeds on the human heart. One of the only 9 people left in the world with a special ability, Elaiza Ikeda, appears before a \"dark-born\" Yama, who gives people darkness...</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2311213/ano-ko-no-yume-wo-mitan-desu-1x11-the-dark-eaters"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2047617"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/4091"
+                    }
+                },
+                "averageRuntime": 13,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt3066242",
+                    "thetvdb": 263999,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Anime",
+                    "Science-Fiction"
+                ],
+                "id": 4091,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/411/1029949.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/411/1029949.jpg"
+                },
+                "language": "English",
+                "name": "RWBY",
+                "network": null,
+                "officialSite": "https://roosterteeth.com/series/rwby",
+                "premiered": "2013-07-18",
+                "rating": {
+                    "average": 7.7
+                },
+                "runtime": 15,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>The future-fantasy world of Remnant is filled with ravenous monsters, treacherous terrain, and more villains than you can shake a sniper-scythe at. Fortunately, Beacon Academy is training Huntsman and Huntresses to battle the evils of the world, and Ruby, Weiss, Blake, and Yang are ready for their first day of class.</p>",
+                "type": "Animation",
+                "updated": 1654475087,
+                "url": "https://www.tvmaze.com/shows/4091/rwby",
+                "webChannel": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 32,
+                    "name": "Rooster Teeth",
+                    "officialSite": null
+                },
+                "weight": 94
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1981088"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T16:00:00+00:00",
+        "airtime": "11:00",
+        "id": 1981088,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/722381.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/722381.jpg"
+        },
+        "name": "Midnight",
+        "number": 6,
+        "rating": {
+            "average": 6
+        },
+        "runtime": 19,
+        "season": 8,
+        "summary": "<p>It's time.\u00a0</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1981088/rwby-8x06-midnight"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2247487"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/19667"
+                    }
+                },
+                "averageRuntime": 30,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 316690,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Sports"
+                ],
+                "id": 19667,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1002869.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1002869.jpg"
+                },
+                "language": "English",
+                "name": "WWE Talking Smack",
+                "network": null,
+                "officialSite": "http://www.wwe.com/shows/wwe-talking-smack",
+                "premiered": "2016-08-02",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 30,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>On <b>WWE Talking Smack</b>, Renee Young catches up with your favorite SmackDown Superstars after \"Smackdown Live\" airs on the USA Network to hear their thoughts on all of that evening's action.</p>",
+                "type": "Talk Show",
+                "updated": 1648133418,
+                "url": "https://www.tvmaze.com/shows/19667/wwe-talking-smack",
+                "webChannel": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 15,
+                    "name": "WWE Network",
+                    "officialSite": null
+                },
+                "weight": 49
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1961287"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T17:00:00+00:00",
+        "airtime": "",
+        "id": 1961287,
+        "image": null,
+        "name": "December 12, 2020",
+        "number": 17,
+        "rating": {
+            "average": null
+        },
+        "runtime": 30,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1961287/wwe-talking-smack-2020-12-12-december-12-2020"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2230458"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/25294"
+                    }
+                },
+                "averageRuntime": 74,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 25294,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/996679.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/996679.jpg"
+                },
+                "language": "English",
+                "name": "UFC Fight Pass Prelims",
+                "network": null,
+                "officialSite": "https://www.ufc.tv/page/fightpass",
+                "premiered": "2017-01-15",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 60,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Televised undercard bouts from UFC Pay-Per-Views and UFC Fight Nights exclusively on UFC Fight Pass.</p>",
+                "type": "Sports",
+                "updated": 1646528986,
+                "url": "https://www.tvmaze.com/shows/25294/ufc-fight-pass-prelims",
+                "webChannel": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 45,
+                    "name": "UFC Fight Pass",
+                    "officialSite": null
+                },
+                "weight": 39
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2042787"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T17:00:00+00:00",
+        "airtime": "",
+        "id": 2042787,
+        "image": null,
+        "name": "UFC 256: Figueiredo vs. Moreno Early Prelims",
+        "number": 52,
+        "rating": {
+            "average": null
+        },
+        "runtime": 60,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2042787/ufc-fight-pass-prelims-2020-12-12-ufc-256-figueiredo-vs-moreno-early-prelims"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2230458"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/25294"
+                    }
+                },
+                "averageRuntime": 74,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 25294,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/996679.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/996679.jpg"
+                },
+                "language": "English",
+                "name": "UFC Fight Pass Prelims",
+                "network": null,
+                "officialSite": "https://www.ufc.tv/page/fightpass",
+                "premiered": "2017-01-15",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 60,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Televised undercard bouts from UFC Pay-Per-Views and UFC Fight Nights exclusively on UFC Fight Pass.</p>",
+                "type": "Sports",
+                "updated": 1646528986,
+                "url": "https://www.tvmaze.com/shows/25294/ufc-fight-pass-prelims",
+                "webChannel": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 45,
+                    "name": "UFC Fight Pass",
+                    "officialSite": null
+                },
+                "weight": 39
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2042788"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T17:00:00+00:00",
+        "airtime": "",
+        "id": 2042788,
+        "image": null,
+        "name": "UFC 256: Figueiredo vs. Moreno Prelims",
+        "number": 53,
+        "rating": {
+            "average": null
+        },
+        "runtime": 60,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2042788/ufc-fight-pass-prelims-2020-12-12-ufc-256-figueiredo-vs-moreno-prelims"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2302150"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/50895"
+                    }
+                },
+                "averageRuntime": 25,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt11011104",
+                    "thetvdb": 369988,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Comedy"
+                ],
+                "id": 50895,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/690655.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/690655.jpg"
+                },
+                "language": "English",
+                "name": "Game Changer",
+                "network": null,
+                "officialSite": "https://www.youtube.com/channel/UCPDXXXJj9nax0fr0Wfc048g",
+                "premiered": "2019-09-20",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 25,
+                "schedule": {
+                    "days": [
+                        "Monday"
+                    ],
+                    "time": "12:00"
+                },
+                "status": "Running",
+                "summary": "<p>In this game show, the game changes every show! Players begin each round without knowing the rules -- and must figure them out while competing to win.</p>",
+                "type": "Game Show",
+                "updated": 1648349240,
+                "url": "https://www.tvmaze.com/shows/50895/game-changer",
+                "webChannel": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 228,
+                    "name": "Collegehumor",
+                    "officialSite": null
+                },
+                "weight": 84
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2071506"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T17:00:00+00:00",
+        "airtime": "12:00",
+        "id": 2071506,
+        "image": null,
+        "name": "Jeopardy!",
+        "number": 7,
+        "rating": {
+            "average": null
+        },
+        "runtime": 34,
+        "season": 3,
+        "summary": "<p><b>Brennan, Ify, and Ally play a simple, regular game of Jeopardy!</b></p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2071506/game-changer-3x07-jeopardy"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1943281"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/50939"
+                    }
+                },
+                "averageRuntime": 5,
+                "dvdCountry": null,
+                "ended": "2020-12-19",
+                "externals": {
+                    "imdb": "tt12584900",
+                    "thetvdb": 386577,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Comedy",
+                    "Anime",
+                    "Science-Fiction"
+                ],
+                "id": 50939,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/691347.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/691347.jpg"
+                },
+                "language": "Japanese",
+                "name": "Rail Romanesque",
+                "network": null,
+                "officialSite": "https://railromanesque.jp",
+                "premiered": "2020-10-03",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 5,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Ended",
+                "summary": "<p>Set in Hinomoto, a fictional version of Japan, where for a long time railway travel served as the most important form of transport. Each locomotive was paired with a humanoid control module, so-called Raillord, that aided the train operator. However, many rail lines had been discontinued due to the rising popularity of \"aerocrafts,\" a safe and convenient aerial mode of transport. As such, their accompanying railroads also went into a deep sleep. Soutetsu had lost his entire family in a rail accident and was adopted into the Migita household, which runs a shochu brewery in the city of Ohitoyo. He returned to his hometown to save it from the potential water pollution that would occur if they accepted the proposal to build an aerocraft factory nearby. He woke up the Raillord Hachiroku by accident and became her owner. For different purposes, they agreed to help find her lost locomotive, with the help of his stepsister Hibiki, the town's mayor and local railway chief, Paulette and others.</p>",
+                "type": "Animation",
+                "updated": 1645753159,
+                "url": "https://www.tvmaze.com/shows/50939/rail-romanesque",
+                "webChannel": {
+                    "country": null,
+                    "id": 20,
+                    "name": "Crunchyroll",
+                    "officialSite": null
+                },
+                "weight": 23
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1943280"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T17:00:00+00:00",
+        "airtime": "",
+        "id": 1943280,
+        "image": null,
+        "name": "The Soothing Hot Springs",
+        "number": 11,
+        "rating": {
+            "average": null
+        },
+        "runtime": 5,
+        "season": 1,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1943280/rail-romanesque-1x11-the-soothing-hot-springs"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2113588"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/53754"
+                    }
+                },
+                "averageRuntime": 25,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt13399538",
+                    "thetvdb": 394876,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 53754,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/297/744528.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/297/744528.jpg"
+                },
+                "language": "English",
+                "name": "Lovely Bites by Chef Lovely",
+                "network": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 236,
+                    "name": "Oprah Winfrey Network",
+                    "officialSite": null
+                },
+                "officialSite": "https://www.oprah.com/app/lovely-bites.html",
+                "premiered": "2020-11-14",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 25,
+                "schedule": {
+                    "days": [],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Chef Connie \"Lovely\" Jackson brings the fun with recipes that are perfect for entertaining and celebrating festive occasions. <b>Lovely Bites</b> is produced for OWN by FishBowl Worldwide Media.</p>",
+                "type": "Reality",
+                "updated": 1623829529,
+                "url": "https://www.tvmaze.com/shows/53754/lovely-bites-by-chef-lovely",
+                "webChannel": null,
+                "weight": 29
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2037519"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T17:00:00+00:00",
+        "airtime": "",
+        "id": 2037519,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/329/823875.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/329/823875.jpg"
+        },
+        "name": "Get Your Game On",
+        "number": 5,
+        "rating": {
+            "average": null
+        },
+        "runtime": 25,
+        "season": 1,
+        "summary": "<p>It's game night, so Chef Lovely's making her famous Fried Chicken Sliders with a Creamy Scallion Slaw, Shrimp and Crab Cakes with a Spicy Citrus Remoulade and \"Love Cookies\" inspired by her Auntie Faye.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2037519/lovely-bites-by-chef-lovely-1x05-get-your-game-on"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2207405"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/51314"
+                    }
+                },
+                "averageRuntime": 88,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt13510734",
+                    "thetvdb": 391528,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Music"
+                ],
+                "id": 51314,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/370/926987.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/370/926987.jpg"
+                },
+                "language": "Norwegian",
+                "name": "Maskorama",
+                "network": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 91,
+                    "name": "NRK1",
+                    "officialSite": null
+                },
+                "officialSite": "https://tv.nrk.no/serie/maskorama",
+                "premiered": "2020-11-07",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 90,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "19:50"
+                },
+                "status": "Running",
+                "summary": "<p>Based on the international hit \"The Masked Singer\", in <b>Maskorama </b>eight elebrities will face off against one another with a twist: each singer is using masks and costumes, the judges panel will have to guess which celebrity is behind the mask.</p>",
+                "type": "Reality",
+                "updated": 1640454812,
+                "url": "https://www.tvmaze.com/shows/51314/maskorama",
+                "webChannel": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 238,
+                    "name": "NRK TV",
+                    "officialSite": null
+                },
+                "weight": 18
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1967068"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T18:50:00+00:00",
+        "airtime": "19:50",
+        "id": 1967068,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/722361.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/722361.jpg"
+        },
+        "name": "Episode 6",
+        "number": 6,
+        "rating": {
+            "average": null
+        },
+        "runtime": 89,
+        "season": 1,
+        "summary": "<p>Finale! The last three participants will go through the finals and gold finals. Tonight we are left with one winner and three revelations! Did you guess correctly?</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1967068/maskorama-1x06-episode-6"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1990352"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/48922"
+                    }
+                },
+                "averageRuntime": 24,
+                "dvdCountry": null,
+                "ended": "2020-12-26",
+                "externals": {
+                    "imdb": "tt12605636",
+                    "thetvdb": 377625,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Fantasy"
+                ],
+                "id": 48922,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/263/658930.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/263/658930.jpg"
+                },
+                "language": "English",
+                "name": "Onyx Equinox",
+                "network": null,
+                "officialSite": "https://www.crunchyroll.com/onyx-equinox",
+                "premiered": "2020-11-21",
+                "rating": {
+                    "average": 5
+                },
+                "runtime": 24,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "16:00"
+                },
+                "status": "Ended",
+                "summary": "<p>A young Aztec boy is saved from death by the gods and chosen to act as \u2018humanity's champion,' forced to discard his apathy toward his fellow man and prove humanity's potential in a fight that spans across fantastical-yet-authentic Mesoamerican cultures.</p>",
+                "type": "Animation",
+                "updated": 1609359827,
+                "url": "https://www.tvmaze.com/shows/48922/onyx-equinox",
+                "webChannel": {
+                    "country": null,
+                    "id": 20,
+                    "name": "Crunchyroll",
+                    "officialSite": null
+                },
+                "weight": 46
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1982435"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T21:00:00+00:00",
+        "airtime": "16:00",
+        "id": 1982435,
+        "image": null,
+        "name": "The Stranger",
+        "number": 4,
+        "rating": {
+            "average": 8
+        },
+        "runtime": 24,
+        "season": 1,
+        "summary": "<p>lzel, K'in and Yun head towards the second gate at Lakamha, where they encounter a warrior looking to bargain.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1982435/onyx-equinox-1x04-the-stranger"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2297850"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/51631"
+                    }
+                },
+                "averageRuntime": 43,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": "tt8851444",
+                    "thetvdb": 322906,
+                    "tvrage": null
+                },
+                "genres": [
+                    "Comedy"
+                ],
+                "id": 51631,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/280/701389.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/280/701389.jpg"
+                },
+                "language": "Norwegian",
+                "name": "Eides spr\u00e5ksjov",
+                "network": null,
+                "officialSite": "https://tv.nrk.no/serie/eides-spraaksjov",
+                "premiered": "2017-01-11",
+                "rating": {
+                    "average": null
+                },
+                "runtime": null,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": ""
+                },
+                "status": "Running",
+                "summary": "<p>Entertainment from here to the moon when Linda Eide and guests pay tribute and joke with language.</p>",
+                "type": "Talk Show",
+                "updated": 1650016918,
+                "url": "https://www.tvmaze.com/shows/51631/eides-spraksjov",
+                "webChannel": {
+                    "country": {
+                        "code": "NO",
+                        "name": "Norway",
+                        "timezone": "Europe/Oslo"
+                    },
+                    "id": 238,
+                    "name": "NRK TV",
+                    "officialSite": null
+                },
+                "weight": 9
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1972346"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-12T21:15:00+00:00",
+        "airtime": "22:15",
+        "id": 1972346,
+        "image": null,
+        "name": "Trompetvokabularet",
+        "number": 4,
+        "rating": {
+            "average": null
+        },
+        "runtime": 45,
+        "season": 6,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1972346/eides-spraksjov-6x04-trompetvokabularet"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/1982904"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/3734"
+                    }
+                },
+                "averageRuntime": 108,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": null,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 3734,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/264/662342.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/264/662342.jpg"
+                },
+                "language": "English",
+                "name": "The Streamy Awards",
+                "network": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 186,
+                    "name": "FUSE TV",
+                    "officialSite": null
+                },
+                "officialSite": "http://www.streamys.org",
+                "premiered": "2009-03-28",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 90,
+                "schedule": {
+                    "days": [
+                        "Saturday"
+                    ],
+                    "time": "21:00"
+                },
+                "status": "Running",
+                "summary": "<p><b>The Streamy Awards </b>honor the best in online video and the creators behind it. The annual event brings together the biggest names in YouTube and online video for a night of celebration, discovery, and meaningful recognition.</p>",
+                "type": "Award Show",
+                "updated": 1615235438,
+                "url": "https://www.tvmaze.com/shows/3734/the-streamy-awards",
+                "webChannel": {
+                    "country": null,
+                    "id": 21,
+                    "name": "YouTube",
+                    "officialSite": "https://www.youtube.com"
+                },
+                "weight": 38
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/1982904"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-13T02:00:00+00:00",
+        "airtime": "21:00",
+        "id": 1982904,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/288/721362.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721362.jpg"
+        },
+        "name": "The 10th Annual Streamy Awards",
+        "number": 1,
+        "rating": {
+            "average": null
+        },
+        "runtime": 95,
+        "season": 2020,
+        "summary": "<p>Join hosts Trixie and Katya for the 2020 YouTube Streamy Awards as we honor the best of our creator community. Watch it free December 12 with ads on YouTube or sign up for YouTube Premium to watch exclusive Q&amp;As with Streamys creators that you won't find anywhere else.</p>",
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/1982904/the-streamy-awards-2020-12-12-the-10th-annual-streamy-awards"
+    },
+    {
+        "_embedded": {
+            "show": {
+                "_links": {
+                    "nextepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2353070"
+                    },
+                    "previousepisode": {
+                        "href": "https://api.tvmaze.com/episodes/2353068"
+                    },
+                    "self": {
+                        "href": "https://api.tvmaze.com/shows/50594"
+                    }
+                },
+                "averageRuntime": 120,
+                "dvdCountry": null,
+                "ended": null,
+                "externals": {
+                    "imdb": null,
+                    "thetvdb": 388898,
+                    "tvrage": null
+                },
+                "genres": [],
+                "id": 50594,
+                "image": {
+                    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1004364.jpg",
+                    "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1004364.jpg"
+                },
+                "language": "English",
+                "name": "Cage Warriors",
+                "network": null,
+                "officialSite": "https://cagewarriors.com",
+                "premiered": "2002-07-27",
+                "rating": {
+                    "average": null
+                },
+                "runtime": 120,
+                "schedule": {
+                    "days": [
+                        "Friday"
+                    ],
+                    "time": "21:00"
+                },
+                "status": "Running",
+                "summary": "<p><b>Cage Warriors</b> is a mixed martial arts promotion, based in London. The promotion was established in 2001 and staged its first MMA event in London in July, 2002.\u00a0</p>",
+                "type": "Sports",
+                "updated": 1656173988,
+                "url": "https://www.tvmaze.com/shows/50594/cage-warriors",
+                "webChannel": {
+                    "country": {
+                        "code": "US",
+                        "name": "United States",
+                        "timezone": "America/New_York"
+                    },
+                    "id": 45,
+                    "name": "UFC Fight Pass",
+                    "officialSite": null
+                },
+                "weight": 13
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://api.tvmaze.com/episodes/2042203"
+            }
+        },
+        "airdate": "2020-12-12",
+        "airstamp": "2020-12-13T02:00:00+00:00",
+        "airtime": "21:00",
+        "id": 2042203,
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/402/1005471.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/402/1005471.jpg"
+        },
+        "name": "Cage Warriors 119",
+        "number": 8,
+        "rating": {
+            "average": null
+        },
+        "runtime": 120,
+        "season": 2020,
+        "summary": null,
+        "type": "regular",
+        "url": "https://www.tvmaze.com/episodes/2042203/cage-warriors-2020-12-12-cage-warriors-119"
+    }
+]
